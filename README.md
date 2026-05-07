@@ -2,9 +2,10 @@
 
 👩‍🎓I'm Vishmi, a computer science undergraduate currently studying at the Informatics Institute of Technology affiliated with the University of Westminster, London.
 
-🌱 I'm currently learning React, TypeScript, and Java.
+🌱 I'm currently learning React, TypeScript, and Springboot.
 
-⚡ I’m currently working on a group project called CookiMate for the Software Development Group Project module.
+⚡ I recently completed working on a group project called CookiMate for the Software Development Group Project module at Informatics Insitute of Technology.
+Check it out here: https://play.google.com/store/apps/details?id=com.cookimateLabs.cookimate
 
 # 💻 Languages and Frameworks
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
